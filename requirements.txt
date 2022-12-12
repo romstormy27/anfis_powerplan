@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+ipython
+ipykernel
+scikit-fuzzy
+matplotlib
+anfis
+seaborn
